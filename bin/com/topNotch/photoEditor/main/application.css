@@ -1,0 +1,19 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.list-cell:even {
+	-fx-background-color : rgb( 80 , 80 , 80 )  ;
+	-fx-padding : 3 ;
+	-fx-font-family : "Comic Sans MS" ;
+}
+
+.list-cell:odd {
+	-fx-background-color : rgb( 80 , 80 , 80 ) ;
+	-fx-padding : 3 ; 
+	-fx-font-family : "Comic Sans MS" ;
+}
+
+.list-view {
+	-fx-background-color : darkgrey ;
+}
+
+
